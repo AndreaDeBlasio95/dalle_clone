@@ -1,2 +1,5 @@
 # dalle_clone
- DALL-E Clone
+
+DALL-E Clone
+
+npm install prop-types

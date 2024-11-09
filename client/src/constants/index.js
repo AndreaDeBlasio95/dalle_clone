@@ -1,5 +1,5 @@
 // generate 50 prompt for random image generation in midjourney
-export const surpriseMePrompt = [
+export const surpriseMePrompts = [
   "A cat over a rainbow",
   "A dog in a spaceship",
   "A monkey in a jungle",
