@@ -1,9 +1,12 @@
 import mongoose from "mongoose";
 
 const connectDB = (url) => {
-  mongoose.set("strictQuery", true);
+  mongoose.set("strictQuery", true); // Useful for searching in MongoDB
 
-  mongoose.connect(url.then(() => console.log("MongoDB connected")).catch((err) => console.log(err));
+  return mongoose
+    .connect(url)
+    .then(() => console.log("MongoDB connected"))
+    .catch((err) => console.log("Database connection error:", err));
 };
 
 export default connectDB;
