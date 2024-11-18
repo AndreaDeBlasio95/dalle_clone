@@ -53,7 +53,7 @@ Ensure you have the following installed:
 3. **Set Up the Server**
 
    ```bash
-   cd ../server
+   cd server
    npm install
    ```
 
@@ -78,9 +78,9 @@ Ensure you have the following installed:
      npm start
      ```
 
-   - Start the frontend development server:
+   - Start a new terminal for the frontend:
      ```bash
-     cd ../client
+     cd client
      npm run dev
      ```
 
