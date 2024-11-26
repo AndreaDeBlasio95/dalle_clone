@@ -88,8 +88,6 @@ Ensure you have the following installed:
 
 ## Screenshots
 
-_Add screenshots of your app showcasing the interface and features._
-
 ### Example Images
 
 ![Home Page](https://raw.githubusercontent.com/AndreaDeBlasio95/dalle_clone/refs/heads/main/screenshots/Dall-E-Clone-1.png)  
