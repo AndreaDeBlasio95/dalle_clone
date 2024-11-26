@@ -88,8 +88,6 @@ Ensure you have the following installed:
 
 ## Screenshots
 
-### Example Images
-
 ![Home Page](https://raw.githubusercontent.com/AndreaDeBlasio95/dalle_clone/refs/heads/main/screenshots/Dall-E-Clone-1.png)  
 ![Image Creation](https://raw.githubusercontent.com/AndreaDeBlasio95/dalle_clone/refs/heads/main/screenshots/Dall-E-Clone-2.png)
 ![Image Creation](https://raw.githubusercontent.com/AndreaDeBlasio95/dalle_clone/refs/heads/main/screenshots/Dall-E-Clone-3.png)
